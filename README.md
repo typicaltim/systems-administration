@@ -1,5 +1,8 @@
 # My Systems Administration Repository
 
+## Activate-Windows
+Used with MDT/SCCM task sequence to activate Windows after OS deployment as part of a task sequence.
+
 ## Send-TeamsNotification
 Used in conjunction with TeamsNotificationTemplate to send teams messages after OS deployment using MDT/SCCM.
 
