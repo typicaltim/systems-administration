@@ -1,5 +1,8 @@
 # My Systems Administration Repository
 
+## Update-BIOS
+Used with MDT/SCCM to update bios as part of a task sequence.
+
 ## Activate-Windows
 Used with MDT/SCCM task sequence to activate Windows after OS deployment as part of a task sequence.
 
