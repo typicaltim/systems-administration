@@ -1,5 +1,8 @@
 # My Systems Administration Repository
 
+## Clean-USMTFiles
+Used with MDT to periodically wipe out old files.
+
 ## Update-BIOS
 Used with MDT/SCCM to update bios as part of a task sequence.
 
