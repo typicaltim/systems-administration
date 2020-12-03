@@ -1,5 +1,8 @@
 # My Systems Administration Repository
 
+## Send-TeamsNotification
+Used in conjunction with TeamsNotificationTemplate to send teams messages after OS deployment using MDT/SCCM.
+
 ## Check-DiskSpace
 Can be used to bulk check free disk space of windows machines.
 
