@@ -1,0 +1,26 @@
+{
+    "@type": "MessageCard",
+    "@context": "http://schema.org/extensions",
+    "themeColor": "E29023",
+    "summary": "Task Sequence Completed",
+    "sections": [{
+        "activityTitle": "Task Sequence Completed",
+        "activitySubtitle": "This notification is sent out if a machine completes a task sequence.",
+        "activityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjemLu6L6uBUhmxTYGJCzjNhm8HGlYY_BJ3AOjSz0xvjfzGi37&usqp=CAU",
+        "facts": [{
+            "name": "Hostname",
+            "value": ""
+        }, {
+            "name": "Task Sequence",
+            "value": ""
+        }, {
+            "name": "Finish Time",
+            "value": ""
+        }, {
+            "name": "Log Files",
+            "value": ""
+        }],
+                "text": "",
+        "markdown": true
+    }]
+}
