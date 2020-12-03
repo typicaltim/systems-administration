@@ -1,5 +1,8 @@
 # My Systems Administration Repository
 
+## Check-DiskSpace
+Can be used to bulk check free disk space of windows machines.
+
 ## Deploy-O365
 This script utilizes the workflow powershell feature to run O365 installations in parallel for rapid deployment. I used this to deploy O365 in an organization since O365 does not have an MSI installer that plays nicely with Group Policy. It had about a fairly high success rate for machines that were online and had WinRM running. A few pieces of software would cause conflicts with the O365 installer and I had to go and touch those machines manually. But this script saved somewhere around 100 hours of time for me. I hope that someone out there finds this and can use it to save even more time for themselves. For that special someone, here are some things you might want to know:
 
